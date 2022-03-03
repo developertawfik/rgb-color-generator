@@ -8,6 +8,7 @@ function main() {
         var bgColor = rgbColorGenerator();
         console.log(bgColor)
         body.style.backgroundColor = bgColor;
+        
 
     })
 }
